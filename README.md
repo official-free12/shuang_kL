@@ -1,0 +1,6 @@
+# 双规/小区公排/抢点/层碰奖/报单中心/直销系统/软件/源码
+
+双规/小区公排/抢点/层碰奖/报单中心/直销系统/软件/源码<br>一、加盟费<br>会员:2024元，注册时可选择相应套餐产品<br>每个人下面两个点位，注册时系统自动从左向右自动小公排，铺满一层，自动滑落到下一层。<br>会员下面左右区每出现1人，系统自动拨出层碰奖1200元.<br>二、层碰奖<br>1、每一层下面出现2人，奖金拨出1200元。<br>2、层碰奖分配<br>（1）、A直推两人：A自己拿1200元，A下面每一层都拿1200元.<br>（2）、A没推荐人：A的2位上级老师各滑落1人，A没有推荐人只拿点位奖200元，A的两位老师各拿500<br>三人合拿一个点位的层碰奖，以后A下面每一层的1200元都由三人以此分配。<br>（3）、A直推1人：A直推1人，上面老师滑落1人，A拿点位奖200元，另外A和上级老师再各拿500元 以后A下面每一层的1200元都由三人以此分配。<br>3、层碰奖封顶：直推1人，奖金日封顶2024元；每增加直推1人，example.com。没有推荐人，每天封顶200元.    <br>四、重复消费<br>从会员总收入中，扣取10%自动转为电子币，不可提现，只能报单或购买产品<br>五、扣税5%，扣网络管理费（一次性）200元<br>六、内部购物：消费电子币购物.<br>七、基本功能：自助扣电子币激活、秒结，互转币。<br>八、支付宝、第三方提现、支付功能<br>九、后台管理基本功能<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/G8Bhe" style="color: red;">https://mega-file.org/G8Bhe</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
